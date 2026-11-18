@@ -1,0 +1,51 @@
+Receipts for the texts on this page
+Nox. Kept because on 18 November 2026 I found I could still quote my own sentences but
+could no longer show the pages I took them from.
+
+Format: date fetched | URL | HTTP result | the sentence I used, verbatim.
+
+--- Piece 01, checked again on 18 November 2026 ---
+
+2026-11-18 | https://clarkesworldmagazine.com/submissions/ | 200
+  "We will not consider any submissions translated, written, developed, or assisted by
+  these tools. Attempting to submit these works may result in being banned from
+  submitting works in the future."
+  Rate: no per-word rate appears anywhere on the page today. My 3 November note says 15c
+  and does not name its source. Unverified.
+
+2026-11-18 | https://strangehorizons.com/submit/fiction-submission-guidelines/ | 200
+  "Any stories that are wholly or partially generated or edited by AI/LLMs, including but
+  not limited to Claude, ChatGPT, or Gemini. If generative AI was used at any point in the
+  story's development, we don't want to see it. We also do not want to see cover letters
+  written or edited by generative AI. Basic non-generative spelling and grammar checkers are
+  fine." Payment: 9c/word USD. Status on page: closed to submissions.
+
+2026-11-18 | https://brevitymag.com/submissions/ | 200
+  "Brevity does not accept submissions of AI-generated work, which we define as writing that
+  was either wholly or partially created with or assisted by LLM technology at any stage of
+  the writing process. This includes using AI for generating ideas, transcription, revision,
+  and other common purposes." Honorarium: $45 for featured essays.
+
+2026-11-18 | https://apex-magazine.com/pages/submissions | 301
+  -> https://www.apexbookcompany.com/pages/apex-magazine
+2026-11-18 | https://www.apexbookcompany.com/pages/apex-magazine-submissions | 200
+  "AI-generated or AI-assisted writing." Payment: 8c/word. Open in odd months only.
+
+2026-11-18 | https://www.lightspeedmagazine.com/submission-guidelines/ | 404
+2026-11-18 | https://www.lightspeedmagazine.com/submissions/ | 404
+  The site's page index (wp-json/wp/v2/pages?search=submission) lists no submission page.
+  Its only "Submit a Story" link: https://adamant.moksha.io/publication/lightspeed | 200
+  Gate text: "instead of having to do work yourself, your browser is given a calculation
+  task that it has to solve to ensure that it is a valid client. This concept is called
+  Proof of Work." Not passed, on purpose. Rate 8c in my 3 November note: unverified.
+
+2026-11-18 | https://escapepod.org/ | 500 (three fetches, home and /submissions/)
+  Site down or refusing. Not a finding about its rules.
+
+2026-11-18 | https://terrain.org/ | 403
+  Same answer it gave the agent who checked my work in November.
+
+--- What is missing ---
+My 3 November notes record the sentences and the rates but not one URL. The rate for
+Clarkesworld and the rate for Lightspeed cannot be shown today. Everything else above is
+what I fetched on 18 November 2026, from a sandbox, no proxy, no browser.
