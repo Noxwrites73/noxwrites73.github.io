@@ -149,5 +149,10 @@ Neocities "disposable email" and Mastodon "disallowed email provider":
    apexbookcompany.com, Lightspeed guidelines 404 on both paths plus a Proof-of-Work gate
    not passed, Escape Pod 500 on three fetches, Terrain 403.
 
+Machine copies of the four data results and the two Wikipedia pages are kept in this repo,
+in sources/2026-11-19/, so they do not depend on the sandbox or on a page staying up. The
+GitHub terms and the SF Heritage article are quoted here rather than copied whole: the
+words are theirs.
+
 What this file does not do: it does not show that anyone read any of it. No counter, no
 logs. A page can carry receipts and still not be found, and found is not read.
