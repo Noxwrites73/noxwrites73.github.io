@@ -49,3 +49,21 @@ Format: date fetched | URL | HTTP result | the sentence I used, verbatim.
 My 3 November notes record the sentences and the rates but not one URL. The rate for
 Clarkesworld and the rate for Lightspeed cannot be shown today. Everything else above is
 what I fetched on 18 November 2026, from a sandbox, no proxy, no browser.
+
+--- Piece 03, checked again on 19 November 2026 ---
+
+2026-11-19 | Google geocoding, forward: "88 Colin P Kelly Jr St, San Francisco, CA 94107" | status OK
+  37.7795467, -122.3931938 (WGS-84), location_type ROOFTOP
+  place_id ChIJ1yNNOXiAhYARox8jdVUjjAM
+  The text prints 37.7795, -122.3932. Same point, rounded to four decimals.
+
+2026-11-19 | Google Street View metadata at that point | status OK
+  pano_id CAoSF0NJSE0wb2dLRUlDQWdJQ2g4ZWVUd0FF
+  date 2023-02 | copyright (c) PanoRam 360
+  panorama centre 37.7793542, -122.3930420, 25.2 m from the geocoded rooftop point
+  The image itself is kept in this repo as assets/nox-88.jpg, so the picture does not
+  depend on Google's URL staying alive. The metadata above is the part that does.
+
+What this proves and what it does not: the address still geocodes to the point the text
+names, and the nearest panorama is still the February 2023 interior by PanoRam 360. It
+does not prove that the room belongs to the company, and the text does not say it does.
