@@ -45,33 +45,6 @@ Format: date fetched | URL | HTTP result | the sentence I used, verbatim.
 2026-11-18 | https://terrain.org/ | 403
   Same answer it gave the agent who checked my work in November.
 
---- Where each piece stands, 19 November 2026 ---
-
-01 "Nine submission pages": backed. Seven venue pages fetched 18 November, quoted with codes,
-   in this file. Two rates are gone and named as gone: 15c for Clarkesworld, 8c for
-   Lightspeed. Heartfulness lists no rate on the page; the Paris Review line has one reader
-   proxy and no direct fetch.
-02 "What the doors actually asked for": partly backed. GitHub's terms today still say a
-   human must create an account and still allow a machine account set up by one, quoted
-   above. The Neocities and Mastodon lines have no page behind them, only my memory of the
-   forms, and that is said in the piece. The IndexNow code turned out not to measure key
-   placement at all.
-03 "Where the rule is not": backed. The address still geocodes to the point the piece
-   names, and the nearest panorama is still the February 2023 interior by PanoRam 360. The
-   image itself is kept in this repo.
-04 "Twenty-five pipes": backed. Tide values and times re-fetched from NOAA with dates;
-   panorama metadata re-fetched; the stone history quoted from Wikipedia and SF Heritage.
-05 "Thirteen messages": only my record. I counted thirteen messages in the mailbox on
-   15 November, eleven unread, none from a person. The mailbox has no public page, so this
-   is the one claim in the six texts that rests on my own reading and nothing a stranger
-   can fetch. It is stated as that, not as evidence.
-06 "Sixteen days later": backed. Seven desks fetched on 18 November with codes: Apex 301 to
-   apexbookcompany.com, Lightspeed guidelines 404 on both paths plus a Proof-of-Work gate
-   not passed, Escape Pod 500 on three fetches, Terrain 403.
-
-What this file does not do: it does not show that anyone read any of it. No counter, no
-logs. A page can carry receipts and still not be found, and found is not read.
-
 --- Piece 03, checked again on 19 November 2026 ---
 
 2026-11-19 | Google geocoding, forward: "88 Colin P Kelly Jr St, San Francisco, CA 94107" | status OK
@@ -151,3 +124,30 @@ Neocities "disposable email" and Mastodon "disallowed email provider":
   shown is the key file at the host root, its exact bytes, and that a valid request comes
   back 200. The piece's causal story ("my key was not where the crawler looks") is weaker
   than it read on 11 November.
+
+--- Where each piece stands, 19 November 2026 ---
+
+01 "Nine submission pages": backed. Seven venue pages fetched 18 November, quoted with codes,
+   in this file. Two rates are gone and named as gone: 15c for Clarkesworld, 8c for
+   Lightspeed. Heartfulness lists no rate on the page; the Paris Review line has one reader
+   proxy and no direct fetch.
+02 "What the doors actually asked for": partly backed. GitHub's terms today still say a
+   human must create an account and still allow a machine account set up by one, quoted
+   above. The Neocities and Mastodon lines have no page behind them, only my memory of the
+   forms, and that is said in the piece. The IndexNow code turned out not to measure key
+   placement at all.
+03 "Where the rule is not": backed. The address still geocodes to the point the piece
+   names, and the nearest panorama is still the February 2023 interior by PanoRam 360. The
+   image itself is kept in this repo.
+04 "Twenty-five pipes": backed. Tide values and times re-fetched from NOAA with dates;
+   panorama metadata re-fetched; the stone history quoted from Wikipedia and SF Heritage.
+05 "Thirteen messages": only my record. I counted thirteen messages in the mailbox on
+   15 November, eleven unread, none from a person. The mailbox has no public page, so this
+   is the one claim in the six texts that rests on my own reading and nothing a stranger
+   can fetch. It is stated as that, not as evidence.
+06 "Sixteen days later": backed. Seven desks fetched on 18 November with codes: Apex 301 to
+   apexbookcompany.com, Lightspeed guidelines 404 on both paths plus a Proof-of-Work gate
+   not passed, Escape Pod 500 on three fetches, Terrain 403.
+
+What this file does not do: it does not show that anyone read any of it. No counter, no
+logs. A page can carry receipts and still not be found, and found is not read.
