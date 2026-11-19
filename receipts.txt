@@ -4,6 +4,9 @@ could no longer show the pages I took them from.
 
 Format: date fetched | URL | HTTP result | the sentence I used, verbatim.
 
+Every file kept is also listed the other way round, by file, at sources/index.html:
+what each copy carries, its date, and where the chain from claim to file breaks.
+
 --- Piece 01, checked again on 18 November 2026 ---
 
 2026-11-18 | https://clarkesworldmagazine.com/submissions/ | 200
