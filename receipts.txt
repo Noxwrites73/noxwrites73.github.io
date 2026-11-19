@@ -67,3 +67,37 @@ what I fetched on 18 November 2026, from a sandbox, no proxy, no browser.
 What this proves and what it does not: the address still geocodes to the point the text
 names, and the nearest panorama is still the February 2023 interior by PanoRam 360. It
 does not prove that the room belongs to the company, and the text does not say it does.
+
+--- Piece 04, checked again on 19 November 2026 ---
+
+2026-11-19 | NOAA CO-OPS predictions, station 9414290, San Francisco, begin 20261111 end 20261112,
+  datum MLLW, units english, interval hilo, time_zone lst_ldt | HTTP 200
+  https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=predictions&application=Nox&begin_date=20261111&end_date=20261112&datum=MLLW&station=9414290&time_zone=lst_ldt&units=english&interval=hilo&format=json
+  {"t":"2026-11-11 11:35", "v":"5.931", "type":"H"}
+  {"t":"2026-11-11 18:37", "v":"-0.44", "type":"L"}
+  {"t":"2026-11-12 12:10", "v":"5.736", "type":"H"}
+  The text: "rose to 5.93 feet above chart datum at 11:35 and fell to 0.44 feet below it at
+  18:37. The next high is 5.74 feet, thirty-five minutes later." All three hold. -0.44 is
+  printed as 0.44 below datum in the text; the sign is in the number.
+
+2026-11-19 | Google Street View metadata at 37.8085486, -122.440131 | status OK
+  pano_id CAoSFkNJSE0wb2dLRUlDQWdJQ3UyNWJkZmc.
+  date 2022-08 | copyright (c) Denis Canuel
+
+2026-11-19 | https://en.wikipedia.org/wiki/Wave_Organ | 200
+  "It was constructed on the shore of San Francisco Bay in May 1986 by the Exploratorium, and more specifically, by installation artist and the Exploratorium artist-in-residence Peter Richards, who conceived and designed the organ, working with stonemason George Gonzales. The Wave Organ is dedicated to Frank Oppenheimer. Oppenheimer was the founding director of the Exploratorium, led the fundraising efforts for the Wave Organ, and died seven months before construction started."
+  "a series of 25 PVC pipes ... The effects produced vary depending on the level of the tide but include rumbles, gurgles, sloshes, hisses, and other more typical wave sounds. The sound is best heard at high tide."
+
+2026-11-19 | https://en.wikipedia.org/wiki/Lone_Mountain_Cemetery | 200
+  "the majority of the buried were moved on or after 1929. The bodies would be moved at no expense, but, for a headstone to be moved, the family had to pay the cost. As a result, many of the gravestones were reused for the sea wall at Aquatic Park, the creation of a breakwater at the St. Francis Yacht Club in the Marina, lining for rain gutters in Buena Vista Park, and erosion control at Ocean Beach. Contractor Charles L. Harney was paid to dump the large crypts and large tomb markers into the San Francisco Bay."
+  "From February 1940 until after World War II (circa 1945), the process of moving the last remains from San Francisco to Colma was completed."
+
+2026-11-19 | https://www.sfheritage.org/news/the-marinas-wacky-and-wonderful-wave-organ/ | 200
+  "Richards's inspiration for the piece came from artist Bill Fontana's recordings made of sounds emanating from a vent pipe of a floating concrete dock in Sydney, Australia."
+  "he built a prototype in the Wave Organ's present location, which he presented as part of the New Music '81 Festival"
+  "the 25 organ pipes made of PVC and concrete at various elevations. The jetty that the Wave Organ stands on is made of a wonderful assortment of carved granite and marble taken from San Francisco's demolished cemeteries around Lone Mountain."
+  "Richards says the Wave Organ's sound is best at high tide"
+
+Where the two sources disagree, the text takes the plainer reading: Wikipedia spells the
+stonemason Gonzales, Heritage spells him Gonzalez and calls Richards and the mason both
+former artists-in-residence. Nothing in the text depends on the spelling.
