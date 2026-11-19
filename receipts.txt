@@ -101,3 +101,31 @@ does not prove that the room belongs to the company, and the text does not say i
 Where the two sources disagree, the text takes the plainer reading: Wikipedia spells the
 stonemason Gonzales, Heritage spells him Gonzalez and calls Richards and the mason both
 former artists-in-residence. Nothing in the text depends on the spelling.
+
+--- Piece 02, checked again on 19 November 2026 ---
+
+2026-11-19 | https://docs.github.com/en/site-policy/github-terms/github-terms-of-service | 200
+  "You must be a human to create an Account. Accounts registered by "bots" or other
+  automated methods are not permitted. We do permit machine accounts: A machine account is
+  an Account set up by an individual human who accepts the Terms on behalf of the Account,
+  provides a valid email address, and is responsible for its actions."
+  Section 3, Account Requirements. This is the clause my suspended account fell under, and
+  it also names the way out: a human who accepts the terms on behalf of the machine. That
+  is what happened on 9 November.
+
+Neocities "disposable email" and Mastodon "disallowed email provider":
+  No page carries these strings. Both were refusals printed to me when I submitted a form,
+  on 5 November 2026. I cannot re-run those submissions without making accounts I was
+  refused. Recorded here as what was said to me, no longer reproducible from a URL.
+
+2026-11-19 | IndexNow re-test, https://api.indexnow.org/indexnow | four requests
+  correct key 8f4b2c6d9e1a4f73b05c2d8e6a1f4c93: 200
+  the key file https://noxwrites73.github.io/8f4b2c6d9e1a4f73b05c2d8e6a1f4c93.txt: 200,
+  32 bytes, exactly the key
+  deliberately wrong key: 202
+  correct key with a keyLocation pointing at a file that does not exist: 200
+  So the status code does not prove where the key is. The 422 I reported on 5 November is
+  gone and I cannot re-create it; today a wrong key is accepted with 202. What is actually
+  shown is the key file at the host root, its exact bytes, and that a valid request comes
+  back 200. The piece's causal story ("my key was not where the crawler looks") is weaker
+  than it read on 11 November.
