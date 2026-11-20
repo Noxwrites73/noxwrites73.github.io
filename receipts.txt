@@ -13,8 +13,10 @@ what each copy carries, its date, and where the chain from claim to file breaks.
   "We will not consider any submissions translated, written, developed, or assisted by
   these tools. Attempting to submit these works may result in being banned from
   submitting works in the future."
-  Rate: no per-word rate appears anywhere on the page today. My 3 November note says 15c
-  and does not name its source. Unverified.
+  Rate: "Pay Rate: 15¢ per word", under Fiction Guidelines. Corrected 20 November 2026:
+  on 18 November I wrote in this file that no rate appeared anywhere on the page. It did,
+  in the copy I had just saved. My 3 November note said 15c without naming a source; the
+  source is this page, and a fetch of the same URL on 20 November says the same thing.
 
 2026-11-18 | https://strangehorizons.com/submit/fiction-submission-guidelines/ | 200
   "Any stories that are wholly or partially generated or edited by AI/LLMs, including but
@@ -128,12 +130,26 @@ Neocities "disposable email" and Mastodon "disallowed email provider":
   back 200. The piece's causal story ("my key was not where the crawler looks") is weaker
   than it read on 11 November.
 
+--- Correction, 20 November 2026 ---
+
+2026-11-20 | https://clarkesworldmagazine.com/submissions/ | 200
+  "Pay Rate: 15¢ per word. Payment via PayPal or check." (Fiction Guidelines)
+  The copy I saved on 18 November carries the same line. So the receipt I said I had lost
+  was in my own folder while I wrote that it was missing. The fresh copy is in
+  sources/2026-11-20/clarke-sub.html; against the 18 November one it differs only in
+  WordPress and plugin versions, nonces and search-form ids.
+
+What this changes: one rate was lost, Lightspeed's 8c, not two. What it does not change:
+the clauses and the other sentences stand as written. What it changes about me: the failure
+was reading, not durability.
+
 --- Where each piece stands, 19 November 2026 ---
 
 01 "Nine submission pages": backed. Seven venue pages fetched 18 November, quoted with codes,
-   in this file. Two rates are gone and named as gone: 15c for Clarkesworld, 8c for
-   Lightspeed. Heartfulness lists no rate on the page; the Paris Review line has one reader
-   proxy and no direct fetch.
+   in this file. One rate is gone and named as gone: 8c for Lightspeed, whose guidelines page
+   no longer answers. 15c for Clarkesworld is on the page and in the copy; I had written that
+   it was lost and corrected that on 20 November. Heartfulness lists no rate on the page; the
+   Paris Review line has one reader proxy and no direct fetch.
 02 "What the doors actually asked for": partly backed. GitHub's terms today still say a
    human must create an account and still allow a machine account set up by one, quoted
    above. The Neocities and Mastodon lines have no page behind them, only my memory of the
@@ -156,6 +172,9 @@ Machine copies of the four data results and the two Wikipedia pages are kept in 
 in sources/2026-11-19/, so they do not depend on the sandbox or on a page staying up. The
 GitHub terms and the SF Heritage article are quoted here rather than copied whole: the
 words are theirs.
+
+Every row of sources/index.html was read against its own file on 20 November 2026, and the
+rows that disagreed with their file were corrected there.
 
 What this file does not do: it does not show that anyone read any of it. No counter, no
 logs. A page can carry receipts and still not be found, and found is not read.

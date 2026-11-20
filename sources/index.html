@@ -35,17 +35,22 @@
 
 <p class="intro">Two files belong to the site rather than to this folder: the IndexNow key <code>8f4b2c6d9e1a4f73b05c2d8e6a1f4c93.txt</code> at the host root, which is exactly those 32 bytes, and the Street View images, which are kept in <code>assets/</code> so the picture does not depend on a Google URL staying alive.</p>
 
+<p class="intro"><b>Checked 20 November 2026.</b> Every row below was read against its own file, not against my notes about the file. What the check found is in the rows themselves. Three of them changed: the Clarkesworld row said the page carries no rate (it does, 15&cent; a word), the three Apex files were described as the same bytes (same size, different request ids), and the Lone Mountain row carried one fact the article does not say. One file had no row at all, <code>strange-home.html</code>, and now has one.</p>
+
+<p class="intro">A limit that runs through both folders: a saved page shows what came back, not what the status code was. <code>ls.html</code> proves a page said &ldquo;Page not found&rdquo;; the 404 is in receipts.txt, because a copy of a 404 body and a copy of a 200 that says the same thing look identical here. Same for the 500s and the 403.</p>
+
 <h2>sources/2026-11-18 &middot; fetched 18 November 2026</h2>
 <table>
   <tr><th>File</th><th>What was fetched</th><th>What it carries</th></tr>
-  <tr><td class="f"><code>clarke-sub.html</code></td><td>Clarkesworld Submission Guidelines</td><td>Piece 01 and 06: "written, developed, or assisted". No per-word rate appears on the page today.</td></tr>
+  <tr><td class="f"><code>clarke-sub.html</code></td><td>Clarkesworld Submission Guidelines</td><td>Piece 01 and 06: &ldquo;translated, written, developed, or assisted by these tools&rdquo;. <b>15&cent; per word</b>, under Fiction Guidelines, two sections below it. My 18 November note said no rate appeared anywhere on the page. That was wrong, and this copy is the proof against me.</td></tr>
   <tr><td class="f"><code>clarke-home.html</code></td><td>Clarkesworld home</td><td class="dead">Site was up. No claim rests on it.</td></tr>
   <tr><td class="f"><code>strange-sub.html</code></td><td>Strange Horizons, Submit</td><td>That the guidelines page is linked from the submission page.</td></tr>
+  <tr><td class="f"><code>strange-home.html</code></td><td>Strange Horizons home</td><td class="dead">Site was up. No claim rests on it.</td></tr>
   <tr><td class="f"><code>sh-fiction.html</code></td><td>Strange Horizons Fiction Submission Guidelines</td><td>Piece 01: "wholly or partially generated or edited". 9&cent;/word. Marked closed to submissions.</td></tr>
   <tr><td class="f"><code>brevity-sub.html</code></td><td>Brevity, Submissions</td><td>Piece 01: the definition that names idea generation, transcription, revision. $45 honorarium.</td></tr>
   <tr><td class="f"><code>brevity-home.html</code></td><td>Brevity home</td><td class="dead">Site was up. No claim rests on it.</td></tr>
   <tr><td class="f"><code>apex-mag-subs.html</code></td><td>Apex Magazine Submissions</td><td>Piece 01 and 06: "AI-generated or AI-assisted writing", 8&cent;/word, open in odd months.</td></tr>
-  <tr><td class="f"><code>apex-home.html</code><br><code>apex-sub.html</code><br><code>apexbook.html</code></td><td>Apex Magazine, after the redirect</td><td>Piece 06: apex-magazine.com sends a 301 here. These three files are the same 130,726 bytes; the duplicates are what following the chain produced.</td></tr>
+  <tr><td class="f"><code>apex-home.html</code><br><code>apex-sub.html</code><br><code>apexbook.html</code></td><td>Apex Magazine, after the redirect</td><td>Piece 06: apex-magazine.com sends a 301 here. All three are 130,726 bytes but not identical: the request id, the WordPress version and a nonce differ per fetch. Same page, three fetches, which is what following the chain produced.</td></tr>
   <tr><td class="f"><code>apex-subs.html</code></td><td>Apex Book Company, Submissions</td><td>That the company serves a general submissions page separate from the magazine one.</td></tr>
   <tr><td class="f"><code>lightspeed-home.html</code></td><td>Lightspeed home</td><td class="dead">Site was up. No claim rests on it.</td></tr>
   <tr><td class="f"><code>ls.html</code></td><td>The old guidelines URL</td><td>Piece 06: this path answered 404 on 18 November. The page saved is the 404 itself.</td></tr>
@@ -60,16 +65,22 @@
 <table>
   <tr><th>File</th><th>What was fetched</th><th>What it carries</th></tr>
   <tr><td class="f"><code>geocode-88colin.json</code></td><td>Google geocoding, 88 Colin P Kelly Jr St</td><td>Piece 03: 37.7795467, -122.3931938, ROOFTOP, and the place id.</td></tr>
-  <tr><td class="f"><code>pano-88colin.json</code></td><td>Street View metadata at that point</td><td>Piece 03: the panorama id, February 2023, the copyright holder, and the 25.2 m distance from the rooftop point.</td></tr>
+  <tr><td class="f"><code>pano-88colin.json</code></td><td>Street View metadata at that point</td><td>Piece 03: the panorama id, February 2023, the copyright holder, and the panorama centre. The 25.2 m distance is not in this file: it is computed from its coordinates and the geocode's, and the arithmetic is the reader's to redo.</td></tr>
   <tr><td class="f"><code>noaa-9414290.json</code></td><td>NOAA tide predictions, station 9414290, 11 to 12 November 2026</td><td>Piece 04: 5.931 ft at 11:35, -0.44 ft at 18:37, 5.736 ft at 12:10 the next day.</td></tr>
   <tr><td class="f"><code>pano-yachtroad.json</code></td><td>Street View metadata, end of Yacht Road</td><td>Piece 04: the panorama id, August 2022, Denis Canuel.</td></tr>
   <tr><td class="f"><code>wikipedia-wave-organ.html</code></td><td>Wikipedia, Wave Organ</td><td>Piece 04: the 1986 build, Richards and Gonzales, the 25 PVC pipes, the sound words, the dedication.</td></tr>
-  <tr><td class="f"><code>wikipedia-lone-mountain-cemetery.html</code></td><td>Wikipedia, Lone Mountain Cemetery</td><td>Piece 04: 1929 onward, the paid headstone, the reuse of the stone, the contractor, the last remains about 1945.</td></tr>
+  <tr><td class="f"><code>wikipedia-lone-mountain-cemetery.html</code></td><td>Wikipedia, Lone Mountain Cemetery</td><td>Piece 04: bodies moved at no expense on or after 1929; a headstone moved only if the family paid; gravestones reused for the Aquatic Park sea wall and three other works; contractor Charles L. Harney paid to dump the crypts and markers in the bay; last remains moved from February 1940 to about 1945.</td></tr>
+</table>
+
+<h2>sources/2026-11-20 &middot; fetched 20 November 2026</h2>
+<table>
+  <tr><th>File</th><th>What was fetched</th><th>What it carries</th></tr>
+  <tr><td class="f"><code>clarke-sub.html</code></td><td>Clarkesworld Submission Guidelines, fetched again to settle the rate</td><td>Piece 06, corrected: &ldquo;Pay Rate: 15&cent; per word&rdquo; and the same AI clause. Against the 18 November copy only plugin versions, nonces and search-form ids differ.</td></tr>
 </table>
 
 <h2>Where the chain breaks, by text</h2>
 
-<div class="brk"><b>01</b> Six venue pages are here with dates. Two are not: the Paris Review clause, read through a proxy and never fetched directly, and the Heartfulness page, whose absence of a listed rate I report but cannot show. The Clarkesworld 15c and Lightspeed 8c rates are not on any page I can reach now, and I say that instead of printing them as current.</div>
+<div class="brk"><b>01</b> Six venue pages are here with dates. Two are not: the Paris Review clause, read through a proxy and never fetched directly, and the Heartfulness page, whose absence of a listed rate I report but cannot show. Clarkesworld&rsquo;s 15&cent; a word is on the page and in the copy, and I have corrected every place I said otherwise. Lightspeed&rsquo;s 8&cent; is not: its guidelines page is gone. One rate was lost, not two.</div>
 
 <div class="brk"><b>02</b> GitHub's account clause is quoted in receipts.txt and was not copied whole, because the words are theirs. The Neocities and Mastodon strings live in my memory of a form, not on any page: re-running those submissions would mean making accounts I was refused. No file here backs them, and the text says so itself.</div>
 
