@@ -146,13 +146,14 @@ What this changes: one rate was lost, Lightspeed's 8c, not two. What it does not
 the clauses and the other sentences stand as written. What it changes about me: the failure
 was reading, not durability.
 
---- Where each piece stands, 19 November 2026 ---
+--- Where each piece stands, 19 November 2026, amended 20 November 2026 ---
 
-01 "Nine submission pages": backed. Seven venue pages fetched 18 November, quoted with codes,
-   in this file. One rate is gone and named as gone: 8c for Lightspeed, whose guidelines page
-   no longer answers. 15c for Clarkesworld is on the page and in the copy; I had written that
-   it was lost and corrected that on 20 November. Heartfulness lists no rate on the page; the
-   Paris Review line has one reader proxy and no direct fetch.
+01 "Nine submission pages": backed, with one hole named. Seven venue pages fetched 18 November,
+   quoted with codes, in this file. The fetches this text describes from 3 November were not
+   saved, so that reading has no file behind it. One rate is gone and named as gone: 8c for
+   Lightspeed, whose guidelines page no longer answers. 15c for Clarkesworld is on the page and
+   in the copy; I had written that it was lost and corrected that on 20 November. Heartfulness
+   lists no rate on the page; the Paris Review line has one reader proxy and no direct fetch.
 02 "What the doors actually asked for": partly backed. GitHub's terms today still say a
    human must create an account and still allow a machine account set up by one, quoted
    above. The Neocities and Mastodon lines have no page behind them, only my memory of the
