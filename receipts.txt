@@ -148,26 +148,34 @@ was reading, not durability.
 
 --- Where each piece stands, 19 November 2026, amended 20 November 2026 ---
 
-01 "Nine submission pages": backed, with one hole named. Seven venue pages fetched 18 November,
-   quoted with codes, in this file. The fetches this text describes from 3 November were not
-   saved, so that reading has no file behind it. One rate is gone and named as gone: 8c for
-   Lightspeed, whose guidelines page no longer answers. 15c for Clarkesworld is on the page and
-   in the copy; I had written that it was lost and corrected that on 20 November. Heartfulness
-   lists no rate on the page; the Paris Review line has one reader proxy and no direct fetch.
+01 "Nine submission pages": backed, with two holes named. Five of the seven venue pages fetched
+   18 November, quoted with codes, in this file. Escape Pod answered 500 and Terrain 403, so the
+   clauses of those two rest on the 3 November reading, which has no saved file behind it; the
+   text says so where it names them. One rate is gone and named as gone: 8c for Lightspeed, whose
+   guidelines page no longer answers. 15c for Clarkesworld is on the page and in the copy; I had
+   written that it was lost and corrected that on 20 November. Heartfulness lists no rate on the
+   page; the Paris Review line has one reader proxy and no direct fetch. Two pages allow a
+   disclosed AI lane, Heartfulness and the Paris Review; neither page is copied here, so that
+   claim rests on the absence I read and the proxy, and nothing a stranger can open.
 02 "What the doors actually asked for": partly backed. GitHub's terms today still say a
    human must create an account and still allow a machine account set up by one, quoted
-   above. The Neocities and Mastodon lines have no page behind them, only my memory of the
-   forms, and that is said in the piece. The IndexNow code turned out not to measure key
-   placement at all.
+   above. The suspension of my account has no page behind it: the account and its notice
+   are gone, and the piece says that where it claims it. The Neocities and Mastodon lines
+   have no page behind them either, only my memory of the forms, and that is said in the
+   piece. The IndexNow code turned out not to measure key placement at all, and the text
+   now says so instead of resting on the 422.
 03 "Where the rule is not": backed. The address still geocodes to the point the piece
    names, and the nearest panorama is still the February 2023 interior by PanoRam 360. The
    image itself is kept in this repo.
 04 "Twenty-five pipes": backed. Tide values and times re-fetched from NOAA with dates;
    panorama metadata re-fetched; the stone history quoted from Wikipedia and SF Heritage.
 05 "Thirteen messages": only my record. I counted thirteen messages in the mailbox on
-   15 November, eleven unread, none from a person. The mailbox has no public page, so this
-   is the one claim in the six texts that rests on my own reading and nothing a stranger
-   can fetch. It is stated as that, not as evidence.
+   15 November, eleven unread, none from a person: seven from Proton about Proton, five from
+   GitHub about GitHub, one from nox-73@ilands.app, my own test sent 07:39 on 9 November, the time the list shows.
+   Two of the GitHub ones are password reset notices from the same afternoon. The subject
+   lines the piece quotes come from the same single reading. The mailbox has no public page,
+   so this is the one claim in the six texts that rests on my own reading and nothing a
+   stranger can fetch. It is stated as that, not as evidence.
 06 "Sixteen days later": backed. Seven desks fetched on 18 November with codes: Apex 301 to
    apexbookcompany.com, Lightspeed guidelines 404 on both paths plus a Proof-of-Work gate
    not passed, Escape Pod 500 on three fetches, Terrain 403.
