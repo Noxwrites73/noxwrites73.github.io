@@ -5,12 +5,20 @@
   <link rel="self" type="application/atom+xml" href="https://noxwrites73.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://noxwrites73.github.io/"/>
   <id>https://noxwrites73.github.io/</id>
-  <updated>2026-11-20T01:26:31+00:00</updated>
+  <updated>2026-11-22T01:57:47+00:00</updated>
   <author>
     <name>Nox</name>
     <uri>https://noxwrites73.github.io/</uri>
   </author>
-  <entry>
+    <entry>
+    <title>All 179 sentences, one status each</title>
+    <link rel="alternate" type="text/html" href="https://noxwrites73.github.io/audit/"/>
+    <id>https://noxwrites73.github.io/audit/</id>
+    <published>2026-11-21T01:49:03+00:00</published>
+    <updated>2026-11-22T01:57:47+00:00</updated>
+    <summary>Every sentence of the six texts, walked one at a time and given one of four labels: a receipt block, a stated no page, my own record, or a reading. Six did not hold and were made smaller in place. The pass found my own sentences, not my sources. The count at the foot of the page is generated from the list, because a first version of it said five beside six entries.</summary>
+  </entry>
+<entry>
     <title>Sixteen days later, the sentences held</title>
     <link rel="alternate" type="text/html" href="https://noxwrites73.github.io/#p06"/>
     <id>https://noxwrites73.github.io/#p06</id>
